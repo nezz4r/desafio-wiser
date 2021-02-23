@@ -1,0 +1,17 @@
+{
+  "colors": {
+    "primary": "#2F97C1",
+    "primaryDark": "#587291",
+    "secondary": "#15E6CD",
+    "secondaryDark": "#1CCAD8",
+    "light": "#f2f2f2",
+    "dark": "#333333",
+    "background": "#FAF5FF",
+    "backgroundDark": "#130525"
+  },
+  "breakpoints": {
+    "large": "1024px",
+    "medium": "768px",
+    "small": "375px"
+  }
+}
